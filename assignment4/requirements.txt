@@ -1,2 +1,2 @@
 imodels
-sklearn
+scikit-learn

@@ -1,2 +1,3 @@
 transformers
 shap
+git+https://github.com/MaximeJumelle/ALEPython.git@dev#egg=alepython

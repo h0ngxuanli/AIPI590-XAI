@@ -1,0 +1,3 @@
+umap
+sentence_transformers
+umap-learn

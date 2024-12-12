@@ -14,9 +14,9 @@ When I worked on that Kaggle competition for melanoma classification, we kept ru
 
 Working as an LLM engineer, I have started seeing these bias issues everywhere. During my final project on AIPI590 Alternative Data Sourcing, I was surprised - but maybe shouldn't have been - when people were more interested in discussing ethical problem in social media data than the technical aspects. Buolamwini's concept of the "coded gaze" really makes me think twice about every model I help build now.
 
-## Breaking the Alabaster: A Personal Resonance
+## Resilience Through the Coded Gaze
 
-As an international student, I found myself nodding along with Buolamwini's experiences as a minority studying in US. Her persistence despite all the challenges she faced is inspiring. She turned her personal experiences into a force for positive change - that's exactly the kind of impact I hope to have in my own career in the tech areas.
+As an international student, I found myself nodding along with Buolamwini's experiences as a minority studying in the US. Her persistence despite the challenges of navigating unfamiliar cultural systems is inspiring. She transformed these personal struggles into a driving force for unmasking the coded biases that perpetuate inequality in technology. That’s exactly the kind of impact I hope to have in my own career to build inclusive technologies that address real-world inequities and make marginalized voices heard.
 
 ## Beyond Metrics: Our Real Responsibility
 
